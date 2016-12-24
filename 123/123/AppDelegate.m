@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     NSLog(@"123");
     NSLog(@"456");
+    NSLog(@"不要在变更了");
     return YES;
 }
 
